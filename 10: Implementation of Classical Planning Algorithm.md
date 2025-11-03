@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-### Name: Sowmya V
-### Reg no: 212222110045
+### Name: Amrutha Rajsheker
+### Register Number: 212222110003
 
 ## Aim:
 To implement classical planning algorithm
