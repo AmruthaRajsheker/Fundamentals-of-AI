@@ -1,6 +1,6 @@
 # ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
-### Name: Sowmya V
-### Register Number: 212222110045
+## Name: Amrutha Rajsheker  
+## Register Number: 212222110003
 
 ## Aim:
 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
