@@ -1,6 +1,6 @@
-## ExpNo 2 : Implement Depth First Search Traversal of a Graph
-#### Name: SOWMYA V</h3>
-#### Register Number: 212222110045 
+# ExpNo 2 : Implement Depth First Search Traversal of a Graph
+## Name: Amrutha Rajsheker  
+## Register Number: 212222110003
 ---
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
