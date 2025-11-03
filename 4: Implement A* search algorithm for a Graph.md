@@ -1,7 +1,7 @@
 # ExpNo 4 : Implement A* search algorithm for a Graph
 
-## Name: Sowmya V  
-## Register Number: 212222110045 
+## Name: Amrutha Rajsheker  
+## Register Number: 212222110003
 
 ### AIM:
 To Implement A * Search algorithm for a Graph using Python 3.
