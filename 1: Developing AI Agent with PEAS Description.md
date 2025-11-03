@@ -1,7 +1,7 @@
 # ExpNo 1: Developing AI Agent with PEAS Description
 
-## Name: Sowmya V  
-## Register Number: 212222110045  
+## Name: Amrutha Rajsheker  
+## Register Number: 212222110003
 
 ### AIM:
 To find the PEAS description for the given AI problem and develop an AI agent.
