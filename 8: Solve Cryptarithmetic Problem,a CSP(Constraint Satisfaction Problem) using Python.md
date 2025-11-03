@@ -1,6 +1,6 @@
 # ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
-### Name: Sowmya V
-### Register Number: 212222110045
+### Name: Amrutha Rajsheker
+### Register Number: 212222110003
 
 ## Aim:
 To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
