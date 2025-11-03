@@ -1,6 +1,6 @@
 # ExpNo 3 : Implement Breadth First Search Traversal of a Graph
-#### Name: SOWMYA V
-#### Register Number: 212222110045
+## Name: Amrutha Rajsheker  
+## Register Number: 212222110003
 
 ## Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
