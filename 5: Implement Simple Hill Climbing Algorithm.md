@@ -1,7 +1,7 @@
 # ExpNo 5 : Implement Simple Hill Climbing Algorithm
 
-#### Name: Sowmya V
-#### Register Number:  212222110045
+## Name: Amrutha Rajsheker  
+## Register Number: 212222110003
 
 ### Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration 
