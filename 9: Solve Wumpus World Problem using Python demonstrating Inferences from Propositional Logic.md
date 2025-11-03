@@ -1,7 +1,6 @@
 # ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
-### Name: Sowmya V
-### Register Number: 212222110045
-
+### Name: Amrutha Rajsheker
+### Register Number: 212222110003
 ## Aim:
 To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 
